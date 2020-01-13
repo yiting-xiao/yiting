@@ -1,0 +1,101 @@
+.sec{
+    background-color: #FFE57F;
+    margin:10px 0px;
+}
+.sec-title{
+    font-size:22px;
+    padding: 5px;
+    border-left: 10px blue solid;
+}
+.sec-title2{
+    font-size:16px;
+    padding: 5px;
+    border-left: 10px red solid;
+}
+.sec-img{
+    margin:10px 25px;
+    width: 210px;
+}
+.sec-img1{
+    margin:0px 0px;
+    width: 800px;
+}
+.sec-text {
+    padding: 5px;
+}
+.sec2{
+    background-color: #D7CCC8;
+    margin:0px 0px;
+    font-family: '微軟正黑體';
+}
+.sec3{
+    margin:10px 20px;
+}
+.sec3 {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    text-align:left;
+    background-color: #757575;
+    background-size: cover;
+    color: white;
+}
+.sec3:hover {
+    background-color: #D7CCC8;
+    background-size: cover;
+    color: black;
+}
+.sec4{
+    margin:0px 40px;
+}
+.sec5{
+    margin:10px 0px;
+}
+.sec6{
+    margin:25px 61px 28px 85px;
+}
+.sec6 {
+    display: block;
+    padding: 15px ;
+    text-decoration: none;
+    text-align:left;
+    background-color: #757575;
+    background-size: cover;
+    color: white;
+    float: left;
+}
+.sec6:hover {
+    background-color: #D7CCC8;
+    background-size: cover;
+    color: black;
+}
+.sec7 {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    text-align:left;
+    background-color: #757575;
+    background-size: cover;
+    color: white;
+}
+.sec7:hover {
+    background-color: #D7CCC8;
+    background-size: cover;
+    color: black;
+}
+.sec8 {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    text-align:left;
+    background-color: #D7CCC8;
+    background-size: cover;
+    color: black;
+    margin: 10px 0px;
+}
+.sec8:hover {
+    margin: 10px 0px;
+    background-color: #757575;
+    background-size: cover;
+    color: white;
+}

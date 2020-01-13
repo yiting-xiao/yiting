@@ -1,0 +1,39 @@
+    * {
+        margin:0;
+    }
+    a{
+        text-decoration: none;
+    }
+    #all{
+        max-width:800px;
+        margin:0 auto;
+    }
+    #header{
+        height: 215px;
+        background-color:white;
+        
+    }
+    #logo1{
+        background-image: url(../img/1578485382601.jpg);
+        background-repeat: no-repeat;
+    }
+    #menu-wrapper{
+        padding-left:100px;
+        background-color: #3f4b38;
+    }
+
+    main{
+        float:left;
+        width:100%;
+        background-color: #a7c479;
+    }
+    main .title{
+        font: 32px bold;
+        margin: 10px 20px;
+        color: #283a03; 
+    }
+    #footer{
+        height: 50px;
+        text-align: center;
+        font-family: 'Lucida Calligraphy';
+    }
